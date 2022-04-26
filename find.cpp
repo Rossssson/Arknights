@@ -24,7 +24,7 @@ std::vector<int> seq_two;
 
 void find::run() {
     find::chou();
-    if (find::total!=300)
+    if (find::total<300)
     {
         std::cout<<"共"<<find::total<<"抽出货\n";
     } else if (find::total>=300)
