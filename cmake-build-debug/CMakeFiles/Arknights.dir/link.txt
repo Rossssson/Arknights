@@ -1,3 +1,0 @@
-"D:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Arknights.dir/objects.a
-D:\PROGRA~3\MINGW-~1\X86_64~1.0-W\mingw64\bin\ar.exe cr CMakeFiles\Arknights.dir/objects.a @CMakeFiles\Arknights.dir\objects1.rsp
-D:\PROGRA~3\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\Arknights.dir/objects.a -Wl,--no-whole-archive -o Arknights.exe -Wl,--out-implib,libArknights.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Arknights.dir\linklibs.rsp
