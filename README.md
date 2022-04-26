@@ -4,4 +4,4 @@
 
 结果示例
 
-![](Snipaste_2022-04-26_22-14-00.png)
+![](https://github.com/Rossssson/Arknights/blob/master/Snipaste_2022-04-26_22-14-00.png)
