@@ -4,4 +4,4 @@
 
 结果示例
 
-![](D:\rossssson\Arknights\Snipaste_2022-04-26_22-14-00.png)
+![](Snipaste_2022-04-26_22-14-00.png)
