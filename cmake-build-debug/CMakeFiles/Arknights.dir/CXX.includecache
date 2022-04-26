@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/rossssson/Arknights/find.cpp
+find.h
+D:/rossssson/Arknights/find.h
+cstdlib
+-
+iostream
+D:/rossssson/Arknights/iostream
+random
+-
+ctime
+-
+algorithm
+-
+
+D:/rossssson/Arknights/find.h
+
