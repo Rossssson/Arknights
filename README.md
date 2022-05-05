@@ -5,3 +5,5 @@
 结果示例
 
 ![](https://github.com/Rossssson/Arknights/blob/master/Snipaste_2022-04-26_22-14-00.png)
+
+## 22抽就出了，这游戏真简单
